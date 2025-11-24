@@ -1,4 +1,10 @@
 {
   "title": "Astria",
-  "icon": "https://raw.githubusercontent.com/Instel12/Astria-Repo/refs/heads/main/icon.png"
+  "icon": "https://raw.githubusercontent.com/Instel12/Astria-Repo/refs/heads/main/icon.png",
+  "games": [
+    {
+      "title": "OvO",
+      "url": "https://raw.githubusercontent.com/Instel12/Gameroom-04-Backend/refs/heads/main/OvO"
+    }
+  ]
 }
