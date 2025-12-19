@@ -1,6 +1,6 @@
 {
-    "title": "Astria (gn-math.dev port)",
-    "icon": "https://raw.githubusercontent.com/Instel12/Astria-Repo/refs/heads/main/icon.png",
+    "title": "GN-Math (Unofficial)",
+    "icon": "https://raw.githubusercontent.com/Instel12/Astria-Repo/refs/heads/main/icon.webp",
     "games": [
         {
             "title": "Bowmasters",
@@ -8,7 +8,7 @@
         },
         {
             "title": "OvO",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/1.html"
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/1-a.html"
         },
         {
             "title": "OvO 2",
@@ -49,10 +49,6 @@
         {
             "title": "Stickman Hook",
             "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/11.html"
-        },
-        {
-            "title": "Subway Surfers: San Francisco",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/12.html"
         },
         {
             "title": "Attack Hole",
@@ -143,10 +139,6 @@
             "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/34.html"
         },
         {
-            "title": "Drive Mad",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/35.html"
-        },
-        {
             "title": "Monster Tracks",
             "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/36.html"
         },
@@ -229,10 +221,6 @@
         {
             "title": "Vex X3M 2",
             "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/56.html"
-        },
-        {
-            "title": "Monkey Mart",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/57.html"
         },
         {
             "title": "1v1.LoL",
@@ -527,66 +515,6 @@
             "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/130.html"
         },
         {
-            "title": "Subway Surfers: Barcelona",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/131.html"
-        },
-        {
-            "title": "Subway Surfers: Beijing",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/132.html"
-        },
-        {
-            "title": "Subway Surfers: Berlin",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/133.html"
-        },
-        {
-            "title": "Subway Surfers: Buenos Aires",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/134.html"
-        },
-        {
-            "title": "Subway Surfers: Havana",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/135.html"
-        },
-        {
-            "title": "Subway Surfers: Houston",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/136.html"
-        },
-        {
-            "title": "Subway Surfers: Iceland",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/137.html"
-        },
-        {
-            "title": "Subway Surfers: London",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/138.html"
-        },
-        {
-            "title": "Subway Surfers: Mexico",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/139.html"
-        },
-        {
-            "title": "Subway Surfers: Miami",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/140.html"
-        },
-        {
-            "title": "Subway Surfers: Monaco",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/141.html"
-        },
-        {
-            "title": "Subway Surfers: New Orleans",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/142.html"
-        },
-        {
-            "title": "Subway Surfers: St. Petersburg",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/143.html"
-        },
-        {
-            "title": "Subway Surfers: Winter Holiday",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/144.html"
-        },
-        {
-            "title": "Subway Surfers: Zurich",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/145.html"
-        },
-        {
             "title": "8 Ball Classic",
             "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/146.html"
         },
@@ -772,7 +700,7 @@
         },
         {
             "title": "People Playground",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/194.html"
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/194-a.html"
         },
         {
             "title": "R.E.P.O",
@@ -1007,6 +935,10 @@
             "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/252.html"
         },
         {
+            "title": "Chat Bot (A.|.I)",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/253.html"
+        },
+        {
             "title": "Crazy Chicken 3D",
             "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/255.html"
         },
@@ -1052,7 +984,7 @@
         },
         {
             "title": "Speed Stars",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/266.html"
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/266-a.html"
         },
         {
             "title": "Pizza Tower",
@@ -2364,7 +2296,7 @@
         },
         {
             "title": "Plants vs. Zombies 2 Gardenless",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/597.html"
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/597-a.html"
         },
         {
             "title": "Sonic.EXE",
@@ -2461,6 +2393,126 @@
         {
             "title": "Friday Night Funkin': Gumballs",
             "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/621.html"
+        },
+        {
+            "title": "Oneshot (LEGACY)",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/622.html"
+        },
+        {
+            "title": "Celeste",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/623-work.html"
+        },
+        {
+            "title": "Happy Wheels",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/624.html"
+        },
+        {
+            "title": "Get Yoked",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/625.html"
+        },
+        {
+            "title": "Doom 3",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/626-f.html"
+        },
+        {
+            "title": "Tag",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/627.html"
+        },
+        {
+            "title": "Pizza Tower: Scoutdigo",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/628-f.html"
+        },
+        {
+            "title": "Off",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/629.html"
+        },
+        {
+            "title": "Space Funeral",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/630.html"
+        },
+        {
+            "title": "Endroll",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/631-a.html"
+        },
+        {
+            "title": "Cave Story",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/632-a.html"
+        },
+        {
+            "title": "Friday Night Funkin': VS. Impostor: Alternated",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/633.html"
+        },
+        {
+            "title": "Friday Night Funkin': Chaos Nightmare - Sonic Vs. Fleetway",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/634.html"
+        },
+        {
+            "title": "Spelunky Classic HD",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/635.html"
+        },
+        {
+            "title": "Friday Night Funkin' D-Sides",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/636.html"
+        },
+        {
+            "title": "BFDIA 5b",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/637-f.html"
+        },
+        {
+            "title": "BFDIA 5b: 5*30",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/638-f.html"
+        },
+        {
+            "title": "Friday Night Funkin' VS Impostor B-Sides",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/639.html"
+        },
+        {
+            "title": "Mutilate a Doll 2",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/640.html"
+        },
+        {
+            "title": "Godzilla Daikaiju Battle Royale",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/641.html"
+        },
+        {
+            "title": "Friday Night Funkin' Sunday Night Suicide: Rookies Edition",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/642.html"
+        },
+        {
+            "title": "Rio Rex",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/643.html"
+        },
+        {
+            "title": "Friday Night Funkin vs Nonsense",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/644.html"
+        },
+        {
+            "title": "Arthur's Nightmare",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/645-e.html"
+        },
+        {
+            "title": "Buster Jam",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/646-fixed.html"
+        },
+        {
+            "title": "Super Smash Flash",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/647.html"
+        },
+        {
+            "title": "Mindwave",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/648-el.html"
+        },
+        {
+            "title": "Look Outside",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/649.html"
+        },
+        {
+            "title": "Milk Inside a Bag of Milk Inside a Bag of Milk",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/650.html"
+        },
+        {
+            "title": "Milk Outside A Bag Of Milk Outside A Bag Of Milk",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/651.html"
         }
     ]
 }
