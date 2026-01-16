@@ -1,6 +1,6 @@
 {
     "title": "GN-Math (Unofficial)",
-    "icon": "https://raw.githubusercontent.com/Instel12/gn-repo-unofficial/refs/heads/main/icon.webp",
+    "icon": "https://raw.githubusercontent.com/Instel12/Astria-Repo/refs/heads/main/icon.webp",
     "games": [
         {
             "title": "Bowmasters",
@@ -36,7 +36,7 @@
         },
         {
             "title": "Friday Night Funkin",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/8-a.html"
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/8-aad.html"
         },
         {
             "title": "Sprunki",
@@ -740,7 +740,7 @@
         },
         {
             "title": "Five Nights at Winston's",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/204.html"
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/204-a.html"
         },
         {
             "title": "Buckshot Roulette",
@@ -1247,10 +1247,6 @@
             "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/331.html"
         },
         {
-            "title": "Going Balls",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/332.html"
-        },
-        {
             "title": "Fancy Pants Adventure",
             "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/333.html"
         },
@@ -1567,10 +1563,6 @@
             "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/411.html"
         },
         {
-            "title": "Triple Match 3D",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/412.html"
-        },
-        {
             "title": "Tug of War with Cars",
             "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/413.html"
         },
@@ -1784,7 +1776,7 @@
         },
         {
             "title": "Hollow Knight",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/468-a.html"
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/468-f.html"
         },
         {
             "title": "sandstone",
@@ -2324,7 +2316,7 @@
         },
         {
             "title": "Minesweeper Plus",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/604.html"
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/604-a.html"
         },
         {
             "title": "Schoolboy Runaway",
@@ -2508,11 +2500,171 @@
         },
         {
             "title": "Milk Inside a Bag of Milk Inside a Bag of Milk",
-            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/650.html"
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/650-f.html"
         },
         {
             "title": "Milk Outside A Bag Of Milk Outside A Bag Of Milk",
             "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/651.html"
+        },
+        {
+            "title": "1 Date Danger",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/653.html"
+        },
+        {
+            "title": "Final Fantasy VII",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/654.html"
+        },
+        {
+            "title": "Goblin Goopmaxxing",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/655.html"
+        },
+        {
+            "title": "Rogue Sergeant The Final Operation",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/656.html"
+        },
+        {
+            "title": "Friday Night Funkin vs Undertale",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/657.html"
+        },
+        {
+            "title": "Midnight Shift",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/658.html"
+        },
+        {
+            "title": "Orange Roulette",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/659.html"
+        },
+        {
+            "title": "Please Dont Touch Anything",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/660.html"
+        },
+        {
+            "title": "Royal Towers: Medieval TD",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/661.html"
+        },
+        {
+            "title": "Going Balls",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/662.html"
+        },
+        {
+            "title": "3D Bolt Master",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/663.html"
+        },
+        {
+            "title": "Tall.io",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/664.html"
+        },
+        {
+            "title": "Match Triple 3D",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/665.html"
+        },
+        {
+            "title": "Stick War: Legacy",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/666.html"
+        },
+        {
+            "title": "In Stars and Time",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/667-fix.html"
+        },
+        {
+            "title": "Gorilla Tag",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/668-fix2.html"
+        },
+        {
+            "title": "Terraria",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/669.html"
+        },
+        {
+            "title": "Raldi's Crackhouse",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/670.html"
+        },
+        {
+            "title": "We Become What We Behold",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/671.html"
+        },
+        {
+            "title": "A Difficult Game About Climbing",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/672-2.html"
+        },
+        {
+            "title": "Hobo 1",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/673.html"
+        },
+        {
+            "title": "Hobo 2",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/674.html"
+        },
+        {
+            "title": "Hobo 3",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/675.html"
+        },
+        {
+            "title": "Hobo 4",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/676.html"
+        },
+        {
+            "title": "Hobo 5",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/677.html"
+        },
+        {
+            "title": "Hobo 6",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/678.html"
+        },
+        {
+            "title": "Hobo 7",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/679.html"
+        },
+        {
+            "title": "Kirby Super Star Ultra",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/680.html"
+        },
+        {
+            "title": "Cooking Mama",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/681.html"
+        },
+        {
+            "title": "Cooking Mama 2",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/682.html"
+        },
+        {
+            "title": "Cooking Mama 3",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/683.html"
+        },
+        {
+            "title": "Kirby Squeak Squad",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/684.html"
+        },
+        {
+            "title": "FIFA 11",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/685.html"
+        },
+        {
+            "title": "FIFA 10",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/686.html"
+        },
+        {
+            "title": "Pico's School",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/687.html"
+        },
+        {
+            "title": "Peggle",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/688.html"
+        },
+        {
+            "title": "Meatboy",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/689.html"
+        },
+        {
+            "title": "Friday Night Funkin': AKAGE",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/690.html"
+        },
+        {
+            "title": "Friday Night Funkin': Heartbreak Havoc [Vs. Sky: REDUX]",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/691.html"
+        },
+        {
+            "title": "Kirby ~ Soft & Wet",
+            "url": "https://cdn.jsdelivr.net/gh/gn-math/html@main/692.html"
         }
     ]
 }
