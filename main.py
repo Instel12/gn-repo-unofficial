@@ -3,13 +3,13 @@ import requests
 
 source_json_url = "https://cdn.jsdelivr.net/gh/gn-math/assets/zones.json"
 HTML_URL = "https://cdn.jsdelivr.net/gh/gn-math/html@main"
-ICON_URL = "https://raw.githubusercontent.com/Instel12/Astria-Repo/refs/heads/main/icon.png"
+ICON_URL = "https://raw.githubusercontent.com/Instel12/Astria-Repo/refs/heads/main/icon.webp"
 
 response = requests.get(source_json_url)
 zones = response.json()
 
 repo = {
-    "title": "Astria",
+    "title": "GN-Math (Unofficial)",
     "icon": ICON_URL,
     "games": []
 }
